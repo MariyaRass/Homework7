@@ -71,7 +71,7 @@ public class Main {
 
         }
         System.out.println("Задание 8");
-        currentYear=2024;
+        int i =2024;
         int startYear=currentYear-200;
         int endYear=currentYear+100;
         int period=79;
