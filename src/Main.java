@@ -79,6 +79,7 @@ public class Main {
         for (int year = startPeriod; year <=endYear ; year+=period) {
             if(year>=startYear){
                 System.out.println (year);
+
             }
 
         }
